@@ -9,7 +9,7 @@ load_dotenv()
 OWM_ENDPOINT = "https://api.openweathermap.org/data/2.5/weather"
 OWM_FORECAST_ENDPOINT = "https://api.openweathermap.org/data/2.5/forecast"
 GEOCODING_API_ENDPOINT = "http://api.openweathermap.org/geo/1.0/direct"
-api_key = "9da75106fe969661ac368b9e55bfda1a"
+api_key = "your-key-here"
 
 app = Flask(__name__)
 
